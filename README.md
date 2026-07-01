@@ -1,7 +1,5 @@
 <div align="center">
-  <!-- Replace with actual logo if available -->
-  <img src="https://via.placeholder.com/150x150.png?text=ExpiryAlert+Logo" alt="ExpiryAlert Logo" width="120" />
-  
+  <!-- Replace with actual logo if available -->  
   # ExpiryAlert
 
   **The ultimate enterprise-grade document lifecycle and expiration management platform.**
@@ -189,22 +187,6 @@ model Record {
 
 ---
 
-## 🖼️ Screenshots
-
-<div align="center">
-
-| Landing Page | Dashboard Analytics |
-|:---:|:---:|
-| <img src="https://via.placeholder.com/600x350.png?text=Landing+Page" width="400" /> | <img src="https://via.placeholder.com/600x350.png?text=Dashboard+Analytics" width="400" /> |
-
-| Record Management | Smart Notifications |
-|:---:|:---:|
-| <img src="https://via.placeholder.com/600x350.png?text=Data+Table" width="400" /> | <img src="https://via.placeholder.com/600x350.png?text=Notification+Popover" width="400" /> |
-
-</div>
-
----
-
 ## 💻 Installation
 
 Get ExpiryAlert running locally in just a few minutes.
@@ -328,19 +310,5 @@ Please ensure your code passes `npm run lint` and `npm run build` prior to submi
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
 ## 📫 Contact
-
 - **GitHub**: [@Tiku57](https://github.com/Tiku57)
-- **LinkedIn**: [Your Name](#) *(Placeholder)*
-- **Portfolio**: [Your Portfolio](#) *(Placeholder)*
-- **Email**: [your.email@example.com](mailto:your.email@example.com) *(Placeholder)*
-
-<div align="center">
-  <sub>Built with ❤️ for the enterprise.</sub>
-</div>
