@@ -37,7 +37,9 @@ By transforming document lifecycle management from a reactive chore into a proac
 
 > **Note:** The live demo is populated with realistic enterprise seed data to showcase the application's full potential out of the box.
 
----
+## 🧠 Technical Documentation
+
+For a deep dive into the architectural decisions, database schema, application flow, and security considerations, please read our comprehensive [THOUGHT_PROCESS.md](./THOUGHT_PROCESS.md).
 
 ## ✨ Features
 
