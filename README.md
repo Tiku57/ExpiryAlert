@@ -33,7 +33,7 @@ By transforming document lifecycle management from a reactive chore into a proac
 
 ## 🚀 Demo
 
-- **Live Demo**: [https://expiryalert.demo.com](#) *(Placeholder)*
+- **Live Demo**: [https://expiry-alert-fawn.vercel.app/](https://expiry-alert-fawn.vercel.app/)
 
 > **Note:** The live demo is populated with realistic enterprise seed data to showcase the application's full potential out of the box.
 
