@@ -1,7 +1,5 @@
 <div align="center">
   <!-- Replace with actual logo if available -->
-  <img src="https://via.placeholder.com/150x150.png?text=ExpiryAlert+Logo" alt="ExpiryAlert Logo" width="120" />
-  
   # 🚀 ExpiryAlert: Document Lifecycle Manager
 
   **The ultimate enterprise-grade document lifecycle and expiration management platform.**
